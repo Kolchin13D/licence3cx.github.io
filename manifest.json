@@ -1,11 +1,11 @@
 {
-    "name": "DemoRoomEKB",
-    "short_name": "DemoRoomEKB",
+    "name": "Licence 3CX",
+    "short_name": "Licence 3CX",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Demo Room EKB",
+    "description": "Licence 3CX",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
